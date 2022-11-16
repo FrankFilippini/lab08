@@ -1,0 +1,6 @@
+*/bin/*
+*/build/*
+*/.gradle/*
+*.class
+gradlew.bat
+*.md
